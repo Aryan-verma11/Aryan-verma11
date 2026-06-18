@@ -69,6 +69,10 @@ A complete attendance management solution with database integration.
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan-verma11&layout=compact)
 
+## 🐍 Contribution Snake
+
+![Snake animation](https://raw.githubusercontent.com/Aryan-verma11/Aryan-verma11/output/github-contribution-grid-snake.svg)
+
 ---
 
 ## 🎯 Current Goals
